@@ -1,0 +1,464 @@
+<!doctype html>
+<html lang="pt-AO">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
+<title>Smart Business Coworking | Coworking, escritórios e salas no Kilamba, Luanda</title>
+<meta name="description" content="Coworking, escritórios privados, sala de reunião, sala de formação e endereço virtual na Centralidade do Kilamba, Luanda. Veja preços e reserve pelo WhatsApp.">
+<meta name="keywords" content="coworking Luanda, coworking Kilamba, escritório privado Luanda, sala de reunião Kilamba, sala de formação Luanda, endereço virtual Angola, Smart Business Coworking">
+<meta name="robots" content="index,follow,max-image-preview:large">
+<meta name="theme-color" content="#050c16">
+<meta name="author" content="Arão Lende">
+<link rel="canonical" href="https://nimialukeni007-hub.github.io/sbc/">
+<link rel="icon" type="image/png" href="sbc-icon-192.png">
+<link rel="apple-touch-icon" href="apple-touch-icon.png">
+<meta property="og:type" content="website">
+<meta property="og:locale" content="pt_AO">
+<meta property="og:site_name" content="Smart Business Coworking">
+<meta property="og:title" content="Smart Business Coworking | Onde ideias se transformam em resultados">
+<meta property="og:description" content="Coworking, escritórios privados, salas de reunião e formação no Kilamba, Luanda. Preços e reservas pelo WhatsApp.">
+<meta property="og:url" content="https://nimialukeni007-hub.github.io/sbc/">
+<meta property="og:image" content="https://nimialukeni007-hub.github.io/sbc/sbc-og.jpg">
+<meta name="twitter:card" content="summary_large_image">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@1,500&family=Poppins:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+<script type="application/ld+json">{"@context":"https://schema.org","@type":"LocalBusiness","name":"Smart Business Coworking","description":"Espaço de coworking com escritórios privados, sala de reunião, sala de formação e pacotes virtuais na Centralidade do Kilamba, Luanda.","url":"https://nimialukeni007-hub.github.io/sbc/","image":"https://nimialukeni007-hub.github.io/sbc/sbc-og.jpg","logo":"https://nimialukeni007-hub.github.io/sbc/sbc-icon-192.png","telephone":["+244926311149","+244940732559"],"priceRange":"5.000 Kz - 235.000 Kz","address":{"@type":"PostalAddress","streetAddress":"Centralidade do Kilamba, U38, Ap. 03","addressLocality":"Kilamba","addressRegion":"Luanda","addressCountry":"AO"},"areaServed":"Luanda","sameAs":["https://www.instagram.com/smartbusinesscoworking/"]}</script>
+<script type="application/ld+json">{"@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [{"@type": "Question", "name": "Onde fica a Smart Business Coworking?", "acceptedAnswer": {"@type": "Answer", "text": "Estamos na Centralidade do Kilamba, U38, Ap. 03, em Luanda, Angola."}}, {"@type": "Question", "name": "Quanto custa um espaço de coworking?", "acceptedAnswer": {"@type": "Answer", "text": "As mesas individuais começam nos 55.000 Kz/mês (Ilha Mussulo) e nos 60.000 Kz/mês (Casulo). As salas privadas começam nos 140.000 Kz/mês. Todos os preços e o que está incluído estão na secção de espaços e preços."}}, {"@type": "Question", "name": "Posso alugar a sala de reunião só por algumas horas?", "acceptedAnswer": {"@type": "Answer", "text": "Sim. O Pack 1 da Sala das Soluções custa 5.000 Kz por hora e o Pack 2 custa 43.900 Kz por mês, com até 10 horas mensais. A sala tem quadro, projector e 7 a 8 lugares."}}, {"@type": "Question", "name": "Têm sala para formações e workshops?", "acceptedAnswer": {"@type": "Answer", "text": "Sim. O Training Center recebe até 20 pessoas, é climatizado e tem quadro e projector, por 9.700 Kz/hora em preço promocional."}}, {"@type": "Question", "name": "O que é o pacote virtual?", "acceptedAnswer": {"@type": "Answer", "text": "É um endereço comercial Smart Business, sem escritório fixo. Inclui recepção de correspondência, notificação de documentos recebidos e atendimento compartilhado, desde 15.740 Kz/mês."}}, {"@type": "Question", "name": "Como assino um pacote?", "acceptedAnswer": {"@type": "Answer", "text": "Escolha o pacote, toque em Reservar e continue no WhatsApp, com a mensagem já pronta. Também pode ligar para 926 311 149 ou 940 732 559."}}]}</script>
+<style>
+*{box-sizing:border-box;margin:0;padding:0}
+:root{--bg:#050c16;--ink:#eef4fb;--mut:#9db0c4;--acc:#2bb4f0;--acc2:#0b7fc2;--gold:#e9bf5a;--silver:#cdd5de;--bronze:#d58b5c;--ease:cubic-bezier(.16,1,.3,1)}
+html{scroll-behavior:smooth;-webkit-text-size-adjust:100%}
+body{background:var(--bg);color:var(--ink);font:400 16px/1.65 Poppins,system-ui,-apple-system,"Segoe UI",Roboto,sans-serif;-webkit-font-smoothing:antialiased;overflow-x:hidden}
+img{display:block;max-width:100%}
+a{color:inherit;text-decoration:none}
+button{font:inherit;color:inherit;cursor:pointer;border:0;background:none}
+.w{width:min(1160px,100% - 40px);margin-inline:auto}
+.ic{width:1.25em;height:1.25em;fill:none;stroke:currentColor;stroke-width:1.8;stroke-linecap:round;stroke-linejoin:round;flex:none}
+.g{background:linear-gradient(115deg,rgba(255,255,255,.15),rgba(255,255,255,0) 40%),linear-gradient(160deg,rgba(255,255,255,.07),rgba(255,255,255,.02)),rgba(13,25,41,.72);border:1px solid rgba(255,255,255,.15);box-shadow:inset 0 1px 0 rgba(255,255,255,.22),inset 0 -1px 0 rgba(255,255,255,.04)}
+em{font-family:"Playfair Display",Georgia,serif;font-style:italic;font-weight:500;color:var(--acc)}
+.eb{display:inline-block;border:1px solid rgba(43,180,240,.5);color:var(--acc);padding:5px 15px;border-radius:30px;font-size:12px;font-weight:500;letter-spacing:.14em;text-transform:uppercase;margin-bottom:18px}
+h2{font-size:clamp(28px,5vw,50px);line-height:1.1;font-weight:600;letter-spacing:-.025em;max-width:16em}
+.lead{color:var(--mut);max-width:34em;margin-top:16px;font-weight:300;font-size:17px}
+.sec{padding:clamp(60px,9vw,92px) 0;content-visibility:auto;contain-intrinsic-size:1px 800px}
+.btn{display:inline-flex;align-items:center;justify-content:center;gap:9px;padding:14px 24px;border-radius:50px;font-weight:500;font-size:15px;transition:transform .8s var(--ease),background .6s;white-space:nowrap}
+.bp{background:linear-gradient(160deg,#4cc6fa,#1597dd);color:#031321;box-shadow:inset 0 1px 0 rgba(255,255,255,.5),0 10px 28px rgba(21,151,221,.28)}
+.bg{border:1px solid rgba(255,255,255,.22);background:rgba(255,255,255,.06);box-shadow:inset 0 1px 0 rgba(255,255,255,.2)}
+.btn:active{transform:scale(.96)}
+@media(hover:hover){.btn:hover{transform:translateY(-3px)}}
+.rv{opacity:0;transform:translateY(34px);transition:opacity 1.4s var(--ease) var(--d,0s),transform 1.6s var(--ease) var(--d,0s)}
+.rv.in{opacity:1;transform:none}
+
+/* preloader */
+#pre{position:fixed;inset:0;z-index:99;background:radial-gradient(600px 400px at 50% 40%,#0b2238,#040a13 70%);display:grid;place-items:center;text-align:center;transition:transform 1.4s cubic-bezier(.77,0,.18,1);animation:preAuto .8s 6.5s forwards}
+#pre.out{transform:translateY(-100%)}
+@keyframes preAuto{to{transform:translateY(-100%);visibility:hidden}}
+.pl{position:relative;width:160px;height:160px;margin:0 auto 28px;display:grid;place-items:center}
+.pl svg{position:absolute;inset:0;transform:rotate(-90deg)}
+.pl circle{fill:none;stroke-width:2}
+.pl .t{stroke:rgba(255,255,255,.1)}
+.pl .p{stroke:var(--acc);stroke-linecap:round;stroke-dasharray:440;stroke-dashoffset:440;animation:ring 3s cubic-bezier(.4,0,.2,1) .1s forwards}
+.pl img{width:64px;animation:lgi 1.8s .2s var(--ease) both}
+@keyframes ring{to{stroke-dashoffset:0}}
+@keyframes lgi{from{opacity:0;transform:scale(.7) translateY(10px)}to{opacity:1;transform:none}}
+.pn{font-weight:600;letter-spacing:.55em;font-size:22px;margin-right:-.55em;animation:fi 1.6s .6s both}
+.ps{color:var(--acc);letter-spacing:.42em;font-size:11px;font-weight:500;margin:6px -.42em 0 0;animation:fi 1.6s .9s both}
+.pc{margin-top:26px;font-size:13px;color:var(--mut);letter-spacing:.2em;animation:fi 1.6s 1.1s both}
+.pc b{color:var(--ink);font-weight:500;font-size:15px}
+@keyframes fi{from{opacity:0;transform:translateY(12px)}to{opacity:1;transform:none}}
+
+/* nav */
+.nav{position:fixed;top:12px;left:50%;z-index:50;width:min(1100px,100% - 24px);height:60px;border-radius:60px;display:flex;align-items:center;justify-content:space-between;padding:0 8px 0 16px;background:linear-gradient(160deg,rgba(28,46,68,.94),rgba(12,22,36,.94));border:1px solid rgba(255,255,255,.16);box-shadow:inset 0 1px 0 rgba(255,255,255,.2),0 10px 30px rgba(0,0,0,.4);opacity:0;transform:translate(-50%,-24px);transition:opacity 1.4s .5s var(--ease),transform 1.4s .5s var(--ease)}
+body.ok .nav{opacity:1;transform:translate(-50%,0)}
+.lg{display:flex;align-items:center;gap:10px;font-weight:600;letter-spacing:.2em;font-size:13px}
+.lg img{width:26px}
+.lg small{display:block;font-size:8px;color:var(--acc);letter-spacing:.3em;font-weight:500;margin-top:-2px}
+.nl{display:none;gap:6px}
+.nl a{padding:9px 14px;border-radius:30px;font-size:14px;color:var(--mut);transition:color .5s,background .5s}
+.nl a:hover{color:#fff;background:rgba(255,255,255,.08)}
+.nr{display:flex;align-items:center;gap:8px}
+.nr .btn{padding:10px 18px;font-size:14px}
+.mb{width:44px;height:44px;border-radius:50%;display:grid;place-items:center;background:rgba(255,255,255,.07)}
+.mp{position:fixed;top:82px;left:50%;transform:translateX(-50%) translateY(-12px);width:min(1100px,100% - 24px);z-index:49;border-radius:28px;padding:14px;display:grid;gap:4px;opacity:0;visibility:hidden;transition:opacity .6s var(--ease),transform .8s var(--ease),visibility 0s .8s;background:rgba(10,20,33,.97)}
+.mp.g{background:#0b1624}
+.mp.o{opacity:1;visibility:visible;transform:translateX(-50%);transition-delay:0s}
+.mp a{padding:14px 16px;border-radius:16px;font-weight:500}
+.mp a:active{background:rgba(255,255,255,.08)}
+@media(min-width:900px){.nl{display:flex}.mb{display:none}}
+
+/* hero */
+.hero{position:relative;min-height:100svh;padding:118px 0 56px;display:flex;flex-direction:column;justify-content:center;overflow:hidden;background:radial-gradient(800px 560px at 85% 5%,rgba(43,180,240,.2),transparent 62%),radial-gradient(700px 520px at 0 100%,rgba(11,127,194,.22),transparent 60%),linear-gradient(180deg,#07131f,#050c16)}
+.hero:before{content:"";position:absolute;inset:0;background-image:radial-gradient(rgba(255,255,255,.14) 1px,transparent 1.3px);background-size:28px 28px;opacity:.45;-webkit-mask-image:linear-gradient(180deg,#000,transparent 80%);mask-image:linear-gradient(180deg,#000,transparent 80%)}
+.gl{position:absolute;width:520px;height:520px;border-radius:50%;background:radial-gradient(circle,rgba(43,180,240,.16),transparent 65%);left:-140px;top:30%;animation:drift 22s ease-in-out infinite alternate}
+@keyframes drift{to{transform:translate(180px,-80px)}}
+.hg{position:relative;display:grid;gap:44px;align-items:center}
+@media(min-width:900px){.hg{grid-template-columns:1.1fr .9fr}}
+.h1{font-size:clamp(31px,8.7vw,80px);line-height:1.03;font-weight:600;letter-spacing:-.035em}
+.ln{display:block;overflow:hidden;padding:0 0 .1em;white-space:nowrap}
+.ln i{display:block;font-style:normal;transform:translateY(112%);transition:transform 1.8s var(--ease)}
+body.ok .ln i{transform:none}
+.ln:nth-child(1) i{transition-delay:.9s}.ln:nth-child(2) i{transition-delay:1.1s}.ln:nth-child(3) i{transition-delay:1.3s}
+.ln em{font-weight:500}
+.hp{margin-top:22px;color:var(--mut);font-weight:300;font-size:17px;max-width:30em;opacity:0;transform:translateY(20px);transition:opacity 1.6s 1.6s var(--ease),transform 1.6s 1.6s var(--ease)}
+.hb{margin-top:30px;display:flex;flex-wrap:wrap;gap:12px;opacity:0;transform:translateY(20px);transition:opacity 1.6s 1.9s var(--ease),transform 1.6s 1.9s var(--ease)}
+.he{opacity:0;transition:opacity 1.6s 1.4s}
+body.ok .hp,body.ok .hb,body.ok .he{opacity:1;transform:none}
+.orb{position:relative;width:min(350px,80vw);aspect-ratio:1;margin:10px auto 0;opacity:0;transform:scale(.85);transition:opacity 2s 1.5s var(--ease),transform 2.2s 1.5s var(--ease)}
+body.ok .orb{opacity:1;transform:none}
+.ring{position:absolute;border-radius:50%;border:1px dashed rgba(43,180,240,.4);animation:spin 70s linear infinite}
+.ring.r1{inset:0}.ring.r2{inset:-9%;border-style:solid;border-color:rgba(255,255,255,.08);animation-duration:110s;animation-direction:reverse}
+.ring:after{content:"";position:absolute;width:10px;height:10px;border-radius:50%;background:var(--acc);top:-5px;left:50%;box-shadow:0 0 14px var(--acc)}
+@keyframes spin{to{transform:rotate(360deg)}}
+.core{position:absolute;inset:9%;border-radius:50%;display:grid;place-items:center;background:radial-gradient(circle at 30% 22%,rgba(255,255,255,.3),rgba(43,180,240,.13) 42%,rgba(4,10,19,.6) 76%);border:1px solid rgba(255,255,255,.22);box-shadow:inset 0 2px 0 rgba(255,255,255,.4),inset 0 -26px 50px rgba(43,180,240,.14)}
+.core img{width:44%;animation:bob 9s ease-in-out infinite}
+@keyframes bob{50%{transform:translateY(-8px)}}
+.fc{position:absolute;display:flex;align-items:center;gap:11px;padding:11px 16px 11px 12px;border-radius:20px;font-size:13px;line-height:1.3;animation:fl 9s ease-in-out infinite;max-width:230px}
+.fc .ic{width:38px;height:38px;padding:9px;border-radius:13px;background:rgba(43,180,240,.16);color:var(--acc)}
+.fc b{display:block;font-weight:500;font-size:13px}
+.fc small{color:var(--mut);font-size:11.5px}
+.f1{left:-6%;top:2%}.f2{right:-10%;top:50%;animation-delay:-3s}.f3{left:0;bottom:-4%;animation-delay:-6s}
+@media(max-width:600px){.orb{width:64vw}.f2{display:none}.f1{left:-24%;top:-4%}.f3{left:auto;right:-22%;bottom:-6%}.fc{padding:9px 13px 9px 10px}.fc .ic{width:32px;height:32px;padding:7px}}
+@keyframes fl{50%{transform:translateY(-14px)}}
+.sb{position:relative;margin-top:56px;border-radius:28px;display:grid;grid-template-columns:1fr 1fr;opacity:0;transition:opacity 1.8s 2.2s}
+body.ok .sb{opacity:1}
+.sb div{padding:20px 22px;border-top:1px solid rgba(255,255,255,.08)}
+.sb div:nth-child(-n+2){border-top:0}.sb div:nth-child(even){border-left:1px solid rgba(255,255,255,.08)}
+.sb b{display:block;font-size:clamp(22px,3.4vw,30px);font-weight:600;letter-spacing:-.02em}
+.sb span{font-size:13px;color:var(--mut)}
+@media(min-width:800px){.sb{grid-template-columns:repeat(4,1fr)}.sb div{border-top:0!important;border-left:1px solid rgba(255,255,255,.08)!important}.sb div:first-child{border-left:0!important}}
+
+/* marquee */
+.mq{overflow:hidden;border-block:1px solid rgba(255,255,255,.08);padding:20px 0;background:#07111d}
+.mt{display:flex;width:max-content;animation:mq 60s linear infinite;animation-play-state:paused}
+.mq.on .mt{animation-play-state:running}
+.mt span{font-size:clamp(22px,3.6vw,36px);font-weight:600;letter-spacing:-.02em;padding:0 22px;color:rgba(255,255,255,.88);white-space:nowrap}
+.mt span:nth-child(even){font-family:"Playfair Display",Georgia,serif;font-style:italic;font-weight:500;color:var(--acc)}
+@keyframes mq{to{transform:translateX(-50%)}}
+
+/* precos */
+.pr{background:radial-gradient(700px 500px at 100% 0,rgba(43,180,240,.1),transparent 60%),var(--bg)}
+.tabs{display:flex;gap:10px;overflow-x:auto;scroll-snap-type:x proximity;margin:34px -20px 0;padding:6px 20px 16px;scrollbar-width:none}
+.tabs::-webkit-scrollbar{display:none}
+.tab{scroll-snap-align:start;flex:none;min-width:158px;text-align:left;padding:14px 16px;border-radius:22px;display:grid;gap:4px;transition:transform .8s var(--ease),background .6s,color .6s}
+.tab .ic{width:26px;height:26px;color:var(--acc);margin-bottom:6px}
+.tab b{font-size:14px;font-weight:500;line-height:1.25}
+.tab small{font-size:12px;color:var(--mut)}
+.tab[aria-selected=true]{background:linear-gradient(160deg,#4cc6fa,#1597dd);border-color:transparent;color:#031321;box-shadow:0 10px 26px rgba(21,151,221,.28)}
+.tab[aria-selected=true] .ic,.tab[aria-selected=true] small{color:#04263d}
+.pn2{border-radius:34px;overflow:hidden;margin-top:6px}
+.bn{position:relative;height:170px;background:#0a1a2b}
+.bn img{position:absolute;inset:0;width:100%;height:100%;object-fit:cover;opacity:.8}
+.bn:after{content:"";position:absolute;inset:0;background:linear-gradient(180deg,rgba(5,12,22,.1),rgba(5,12,22,.92))}
+.bt{position:absolute;left:26px;right:26px;bottom:20px;z-index:1}
+.bt h3{font-size:clamp(24px,4vw,34px);font-weight:600;letter-spacing:-.02em;line-height:1.15}
+.bt p{color:var(--mut);font-size:15px;font-weight:300}
+.pk{display:grid;gap:16px;padding:22px;grid-template-columns:repeat(auto-fit,minmax(250px,1fr))}
+.pcd{position:relative;border-radius:26px;padding:24px;display:flex;flex-direction:column;animation:swin 1.2s var(--ease) both;animation-delay:calc(var(--i)*.14s);transition:transform .9s var(--ease)}
+@keyframes swin{from{opacity:0;transform:translateY(26px)}to{opacity:1;transform:none}}
+@media(hover:hover){.pcd:hover{transform:translateY(-8px)}}
+.pcd.hl{border-color:rgba(233,191,90,.55);background:linear-gradient(115deg,rgba(233,191,90,.18),rgba(255,255,255,0) 45%),rgba(18,26,38,.9)}
+.pcd.hl.ot{border-color:rgba(43,180,240,.6);background:linear-gradient(115deg,rgba(43,180,240,.2),rgba(255,255,255,0) 45%),rgba(13,25,41,.9)}
+.tg{display:flex;align-items:center;gap:9px;font-size:13px;font-weight:600;letter-spacing:.16em;text-transform:uppercase}
+.tg i{width:11px;height:11px;border-radius:50%;background:var(--c)}
+.br{--c:var(--bronze)}.sv{--c:var(--silver)}.gd{--c:var(--gold)}.ot{--c:var(--acc)}
+.bd{position:absolute;top:18px;right:18px;font-size:11px;font-weight:600;letter-spacing:.06em;background:var(--gold);color:#3a2a00;padding:4px 11px;border-radius:20px}
+.ot .bd{background:var(--acc);color:#03223a}
+.pp{font-size:40px;font-weight:700;letter-spacing:-.03em;margin:14px 0 4px;line-height:1.1}
+.pp small{font-size:14px;font-weight:400;color:var(--mut);letter-spacing:0}
+.pcd ul{list-style:none;display:grid;gap:9px;margin:14px 0 22px;font-size:14.5px;font-weight:300;color:#dbe6f1}
+.pcd li{display:flex;gap:10px}
+.pcd li .ic{width:17px;height:17px;margin-top:3px;color:var(--c)}
+.pcd .sx{list-style:none;margin:-4px 0 0 27px;font-size:13px;color:var(--mut);gap:4px}
+.pcd .sx li{display:block}.pcd .sx li:before{content:"• "}
+.pcd .btn{margin-top:auto;width:100%}
+.nt{padding:0 26px 24px;font-size:13px;color:var(--mut)}
+
+/* sobre */
+.sob{background:linear-gradient(180deg,var(--bg),#071524 50%,var(--bg))}
+.sg{display:grid;gap:44px;align-items:center}
+@media(min-width:900px){.sg{grid-template-columns:1fr 1.05fr}}
+.qt{margin-top:28px;font-family:"Playfair Display",Georgia,serif;font-style:italic;font-size:clamp(20px,2.6vw,26px);line-height:1.4;color:#d6e6f5;padding-left:20px;border-left:2px solid var(--acc)}
+.ft{display:grid;grid-template-columns:1fr 1fr;gap:12px}
+.fi{border-radius:24px;padding:20px 18px;transition:transform .9s var(--ease)}
+@media(hover:hover){.fi:hover{transform:translateY(-6px)}}
+.fi .ic{width:42px;height:42px;padding:10px;border-radius:14px;background:rgba(43,180,240,.15);color:var(--acc);margin-bottom:14px}
+.fi b{display:block;font-weight:500;font-size:15px;line-height:1.3}
+.fi small{display:block;margin-top:6px;color:var(--mut);font-size:13px;line-height:1.5;font-weight:300}
+@media(max-width:420px){.ft{grid-template-columns:1fr}}
+
+/* ambientes */
+.ag{display:grid;gap:16px;margin-top:38px}
+@media(min-width:800px){.ag{grid-template-columns:1.25fr 1fr}}
+.ph{position:relative;border-radius:32px;overflow:hidden;min-height:320px;border:1px solid rgba(255,255,255,.16);background:#0a1a2b}
+.ph img{position:absolute;inset:0;width:100%;height:100%;object-fit:cover;animation:kb 24s ease-in-out infinite alternate;animation-play-state:paused}
+.ph.on img{animation-play-state:running}
+@keyframes kb{to{transform:scale(1.12)}}
+.ph:after{content:"";position:absolute;inset:0;background:linear-gradient(180deg,transparent 45%,rgba(5,12,22,.85))}
+.cp{position:absolute;left:16px;right:16px;bottom:16px;z-index:1;border-radius:22px;padding:14px 18px;font-size:14px}
+.cp b{display:block;font-weight:600;font-size:16px}
+.cp span{color:var(--mut);font-weight:300}
+
+/* passos */
+.sp{display:grid;gap:14px;margin-top:38px}
+@media(min-width:800px){.sp{grid-template-columns:repeat(3,1fr)}}
+.st2{border-radius:28px;padding:28px 26px}
+.st2 em{font-size:54px;line-height:1;display:block;margin-bottom:12px}
+.st2 b{font-weight:500;font-size:19px;display:block}
+.st2 p{color:var(--mut);margin-top:6px;font-size:15px;font-weight:300}
+
+/* faq */
+.fq{display:grid;gap:12px;margin-top:34px;max-width:860px}
+.fq details{border-radius:22px;padding:0 22px}
+.fq summary{list-style:none;cursor:pointer;display:flex;justify-content:space-between;align-items:center;gap:14px;padding:19px 0;font-weight:500;font-size:16px;line-height:1.4}
+.fq summary::-webkit-details-marker{display:none}
+.fq summary .ic{transition:transform .7s var(--ease);color:var(--acc)}
+.fq details[open] summary .ic{transform:rotate(180deg)}
+.fq p{padding:0 0 20px;color:var(--mut);font-weight:300;font-size:15px}
+
+/* contacto */
+.cg{display:grid;gap:18px;margin-top:38px}
+@media(min-width:860px){.cg{grid-template-columns:.9fr 1.1fr}}
+.ci,.cf{border-radius:30px;padding:28px}
+.cr{display:flex;gap:14px;align-items:flex-start;padding:14px 0;border-bottom:1px solid rgba(255,255,255,.08)}
+.cr:last-child{border:0}
+.cr .ic{width:42px;height:42px;padding:10px;border-radius:14px;background:rgba(43,180,240,.15);color:var(--acc)}
+.cr small{display:block;color:var(--mut);font-size:12px;letter-spacing:.08em;text-transform:uppercase}
+.cr b{font-weight:500;font-size:16px}
+.cr a:hover b{color:var(--acc)}
+.cf form{display:grid;gap:12px}
+.cf label{font-size:13px;color:var(--mut);display:grid;gap:6px}
+.cf input,.cf select,.cf textarea{font:inherit;color:var(--ink);background:rgba(4,10,19,.7);border:1px solid rgba(255,255,255,.16);border-radius:16px;padding:13px 15px;width:100%;outline:0;transition:border-color .5s}
+.cf input:focus,.cf select:focus,.cf textarea:focus{border-color:var(--acc)}
+.cf textarea{min-height:96px;resize:vertical}
+.cf select option{background:#0a1624}
+.cta{margin-top:70px;border-radius:36px;padding:clamp(30px,6vw,60px);text-align:center;background:linear-gradient(115deg,rgba(43,180,240,.3),rgba(255,255,255,0) 55%),linear-gradient(160deg,#0d2a44,#08192b);border:1px solid rgba(255,255,255,.18);box-shadow:inset 0 1px 0 rgba(255,255,255,.25)}
+.cta h2{margin:0 auto;max-width:15em}
+.cta .btn{margin-top:26px}
+footer{padding:34px 0 96px;color:var(--mut);font-size:13.5px;border-top:1px solid rgba(255,255,255,.08);margin-top:70px}
+.fw{display:flex;flex-wrap:wrap;gap:14px 30px;justify-content:space-between;align-items:center}
+.fw a:hover{color:var(--acc)}
+.fab{position:fixed;right:16px;bottom:calc(16px + env(safe-area-inset-bottom));z-index:40;width:58px;height:58px;border-radius:50%;display:grid;place-items:center;background:linear-gradient(160deg,#35d871,#16a34a);color:#04200f;box-shadow:inset 0 1px 0 rgba(255,255,255,.5),0 10px 26px rgba(22,163,74,.4);transition:transform .8s var(--ease),opacity 1.4s 2.4s;opacity:0}
+body.ok .fab{opacity:1}
+.fab .ic{width:28px;height:28px;stroke-width:1.9}
+.fab:active{transform:scale(.92)}
+@media(prefers-reduced-motion:reduce){*{animation-duration:.01ms!important;animation-iteration-count:1!important;transition-duration:.01ms!important;scroll-behavior:auto!important}}
+</style>
+<noscript><style>.rv,.ln i,.hp,.hb,.he,.orb,.sb,.nav,.fab{opacity:1!important;transform:none!important}.nav{transform:translateX(-50%)!important}#pre{display:none}</style></noscript>
+</head>
+<body>
+<svg width="0" height="0" style="position:absolute" aria-hidden="true"><defs>
+<symbol id="i-pin" viewBox="0 0 24 24"><path d="M20 10c0 6-8 12-8 12s-8-6-8-12a8 8 0 0 1 16 0Z"/><circle cx="12" cy="10" r="3"/></symbol>
+<symbol id="i-tel" viewBox="0 0 24 24"><path d="M22 16.9v3a2 2 0 0 1-2.2 2 19.8 19.8 0 0 1-8.6-3.1 19.5 19.5 0 0 1-6-6A19.8 19.8 0 0 1 2.1 4.2 2 2 0 0 1 4.1 2h3a2 2 0 0 1 2 1.7c.1 1 .4 1.9.7 2.8a2 2 0 0 1-.5 2.1L8.1 9.9a16 16 0 0 0 6 6l1.3-1.3a2 2 0 0 1 2.1-.4c.9.3 1.8.6 2.8.7a2 2 0 0 1 1.7 2Z"/></symbol>
+<symbol id="i-wifi" viewBox="0 0 24 24"><path d="M5 12.5a10 10 0 0 1 14 0M8.5 16a5 5 0 0 1 7 0M2 9a14 14 0 0 1 20 0"/><circle cx="12" cy="19.6" r=".7"/></symbol>
+<symbol id="i-ok" viewBox="0 0 24 24"><path d="M20 6 9 17l-5-5"/></symbol>
+<symbol id="i-up" viewBox="0 0 24 24"><path d="M7 17 17 7M8 7h9v9"/></symbol>
+<symbol id="i-users" viewBox="0 0 24 24"><path d="M16 21v-2a4 4 0 0 0-4-4H6a4 4 0 0 0-4 4v2"/><circle cx="9" cy="7" r="4"/><path d="M22 21v-2a4 4 0 0 0-3-3.9M16 3.1a4 4 0 0 1 0 7.8"/></symbol>
+<symbol id="i-desk" viewBox="0 0 24 24"><rect x="2" y="3" width="20" height="14" rx="2"/><path d="M8 21h8M12 17v4"/></symbol>
+<symbol id="i-bulb" viewBox="0 0 24 24"><path d="M15 14c.2-1 .7-1.7 1.5-2.5 1-.9 1.5-2.2 1.5-3.5A6 6 0 0 0 6 8c0 1 .2 2.2 1.5 3.5.7.7 1.3 1.5 1.5 2.5M9 18h6M10 22h4"/></symbol>
+<symbol id="i-rocket" viewBox="0 0 24 24"><path d="M4.5 16.5c-1.5 1.3-2 5-2 5s3.7-.5 5-2c.7-.8.7-2.1-.1-2.9a2.2 2.2 0 0 0-2.9-.1ZM12 15l-3-3a22 22 0 0 1 2-3.9A12.9 12.9 0 0 1 22 2c0 2.7-.8 7.5-6 11a22 22 0 0 1-4 2Z"/><path d="M9 12H4s.6-3 2-4c1.6-1.1 5 0 5 0M12 15v5s3-.6 4-2c1.1-1.6 0-5 0-5"/></symbol>
+<symbol id="i-meet" viewBox="0 0 24 24"><rect x="3" y="4" width="18" height="12" rx="2"/><path d="M8 20h8M12 16v4M7 9h10M7 12h6"/></symbol>
+<symbol id="i-school" viewBox="0 0 24 24"><path d="M2 3h20M21 3v11a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2V3M12 16v5M8 21h8"/><path d="m7 12 3-3 2 2 4-4"/></symbol>
+<symbol id="i-globe" viewBox="0 0 24 24"><circle cx="12" cy="12" r="10"/><path d="M2 12h20M12 2a15 15 0 0 1 0 20 15 15 0 0 1 0-20Z"/></symbol>
+<symbol id="i-cup" viewBox="0 0 24 24"><path d="M17 8h1a4 4 0 1 1 0 8h-1M3 8h14v9a4 4 0 0 1-4 4H7a4 4 0 0 1-4-4Z"/><path d="M6 2v2M10 2v2M14 2v2"/></symbol>
+<symbol id="i-print" viewBox="0 0 24 24"><path d="M6 9V2h12v7M6 18H4a2 2 0 0 1-2-2v-5a2 2 0 0 1 2-2h16a2 2 0 0 1 2 2v5a2 2 0 0 1-2 2h-2"/><rect x="6" y="14" width="12" height="8"/></symbol>
+<symbol id="i-chart" viewBox="0 0 24 24"><path d="M3 3v18h18"/><path d="M8 17V9M13 17V5M18 17v-5"/></symbol>
+<symbol id="i-mega" viewBox="0 0 24 24"><path d="m3 11 18-5v12L3 14v-3Z"/><path d="M11.6 16.8a3 3 0 1 1-5.8-1.6"/></symbol>
+<symbol id="i-bell" viewBox="0 0 24 24"><path d="M6 8a6 6 0 0 1 12 0c0 7 3 9 3 9H3s3-2 3-9M10.3 21a1.9 1.9 0 0 0 3.4 0"/></symbol>
+<symbol id="i-clock" viewBox="0 0 24 24"><circle cx="12" cy="12" r="10"/><path d="M12 6v6l4 2"/></symbol>
+<symbol id="i-ig" viewBox="0 0 24 24"><rect x="2" y="2" width="20" height="20" rx="5"/><path d="M16 11.4a4 4 0 1 1-7.9 1.2 4 4 0 0 1 7.9-1.2ZM17.5 6.5h.01"/></symbol>
+<symbol id="i-fb" viewBox="0 0 24 24"><path d="M18 2h-3a5 5 0 0 0-5 5v3H7v4h3v8h4v-8h3l1-4h-4V7a1 1 0 0 1 1-1h3Z"/></symbol>
+<symbol id="i-wa" viewBox="0 0 24 24"><path d="M7.9 20A9 9 0 1 0 4 16.1L2 22Z"/><path d="M9 10c0 3 2 5 5 5l1.5-1.5-2-1-1 .8c-.8-.4-1.4-1-1.8-1.8l.8-1-1-2Z"/></symbol>
+<symbol id="i-menu" viewBox="0 0 24 24"><path d="M4 7h16M4 12h16M4 17h16"/></symbol>
+<symbol id="i-x" viewBox="0 0 24 24"><path d="M6 6l12 12M18 6 6 18"/></symbol>
+<symbol id="i-dn" viewBox="0 0 24 24"><path d="m6 9 6 6 6-6"/></symbol>
+</defs></svg>
+
+<div id="pre" aria-hidden="true"><div>
+<div class="pl"><svg viewBox="0 0 160 160"><circle class="t" cx="80" cy="80" r="70"/><circle class="p" cx="80" cy="80" r="70"/></svg><img src="sbc-logo.png" alt="" width="64" height="75"></div>
+<div class="pn">SMART</div><div class="ps">BUSINESS COWORKING</div>
+<div class="pc"><b id="pc">0</b> %  ·  A PREPARAR O SEU ESPAÇO</div>
+</div></div>
+
+<header class="nav" id="nav">
+<a class="lg" href="#inicio" aria-label="Smart Business Coworking"><img src="sbc-logo.png" alt="" width="26" height="30"><span>SMART<small>COWORKING</small></span></a>
+<nav class="nl" aria-label="Principal"><a href="#precos">Espaços e preços</a><a href="#sobre">Sobre</a><a href="#ambientes">Ambientes</a><a href="#faq">Perguntas</a><a href="#contacto">Contacto</a></nav>
+<div class="nr"><a class="btn bp" href="#" data-wa="Olá! Gostaria de saber mais sobre a Smart Business Coworking.">WhatsApp</a><button class="mb" id="mb" aria-label="Abrir menu" aria-expanded="false"><svg class="ic"><use href="#i-menu"/></svg></button></div>
+</header>
+<nav class="mp g" id="mp" aria-label="Menu móvel"><a href="#precos">Espaços e preços</a><a href="#sobre">Sobre</a><a href="#ambientes">Ambientes</a><a href="#faq">Perguntas</a><a href="#contacto">Contacto</a></nav>
+
+<main>
+<section class="hero" id="inicio">
+<div class="gl"></div>
+<div class="w hg">
+<div>
+<span class="eb he">Coworking · Kilamba, Luanda</span>
+<h1 class="h1"><span class="ln"><i>Onde ideias</i></span><span class="ln"><i>se transformam em</i></span><span class="ln"><i><em>resultados.</em></i></span></h1>
+<p class="hp">Um espaço moderno e profissional pensado para empreendedores, empresas e profissionais independentes: coworking, escritórios privados, sala de reunião e sala de formação.</p>
+<div class="hb"><a class="btn bp" href="#precos">Ver espaços e preços <svg class="ic"><use href="#i-up"/></svg></a><a class="btn bg" href="#" data-wa="Olá! Gostaria de visitar a Smart Business Coworking. Que dias e horários posso passar aí?"><svg class="ic"><use href="#i-wa"/></svg> Marcar visita</a></div>
+</div>
+<div class="orb"><div class="ring r1"></div><div class="ring r2"></div>
+<div class="core"><img src="sbc-logo.png" alt="Logótipo Smart Business Coworking" width="200" height="233"></div>
+<div class="fc g f1"><svg class="ic"><use href="#i-pin"/></svg><div><b>Centralidade do Kilamba</b><small>U38, Ap. 03 · Luanda</small></div></div>
+<div class="fc g f2"><svg class="ic"><use href="#i-wifi"/></svg><div><b>Internet de alta velocidade</b><small>incluída nos pacotes</small></div></div>
+<div class="fc g f3"><svg class="ic"><use href="#i-clock"/></svg><div><b>Sala de reunião</b><small>desde 5.000 Kz/hora</small></div></div>
+</div>
+</div>
+<div class="w"><div class="sb g">
+<div><b>55.000 Kz</b><span>mesa individual por mês</span></div>
+<div><b>5.000 Kz</b><span>sala de reunião por hora</span></div>
+<div><b>20 lugares</b><span>na sala de formação</span></div>
+<div><b>Kilamba</b><span>Centralidade, U38 · Luanda</span></div>
+</div></div>
+</section>
+
+<div class="mq pz" aria-hidden="true"><div class="mt">
+<span>Coworking</span><span>escritórios privados</span><span>sala de reunião</span><span>sala de formação</span><span>endereço virtual</span><span>Coworking</span><span>escritórios privados</span><span>sala de reunião</span><span>sala de formação</span><span>endereço virtual</span>
+</div></div>
+
+<section class="sec pr" id="precos"><div class="w">
+<span class="eb rv">Espaços e preços</span>
+<h2 class="rv" style="--d:.1s">Escolha o espaço certo para o seu <em>negócio</em></h2>
+<p class="lead rv" style="--d:.2s">Toque num espaço para ver os pacotes, o que está incluído e reservar pelo WhatsApp com a mensagem já pronta.</p>
+<div class="tabs rv" id="tabs" role="tablist" aria-label="Espaços" style="--d:.3s"></div>
+<div class="pn2 g" id="panel" role="tabpanel"></div>
+</div></section>
+
+<section class="sec sob" id="sobre"><div class="w sg">
+<div>
+<span class="eb rv">Sobre nós</span>
+<h2 class="rv" style="--d:.1s">Mais do que um espaço, um <em>parceiro</em> para as suas conquistas</h2>
+<p class="lead rv" style="--d:.2s">A Smart Business Coworking é um espaço moderno e profissional na Centralidade do Kilamba, com escritórios, sala de reunião e formação para quem quer trabalhar e crescer num ambiente certo.</p>
+<p class="qt rv" style="--d:.3s">Transformar ideias em negócios, negócios em empresas e empresas em histórias de sucesso.</p>
+</div>
+<div class="ft">
+<div class="fi g rv"><svg class="ic"><use href="#i-wifi"/></svg><b>Internet de alta velocidade</b><small>Incluída nos pacotes de coworking e nas salas de reunião.</small></div>
+<div class="fi g rv" style="--d:.1s"><svg class="ic"><use href="#i-bell"/></svg><b>Recepção</b><small>Recepção compartilhada e apoio no atendimento.</small></div>
+<div class="fi g rv" style="--d:.2s"><svg class="ic"><use href="#i-cup"/></svg><b>Copa e cafés</b><small>Copa e cafés mensais incluídos nos pacotes.</small></div>
+<div class="fi g rv" style="--d:.3s"><svg class="ic"><use href="#i-print"/></svg><b>Impressões e cópias</b><small>De 15 a 20 impressões ou cópias por mês nos pacotes.</small></div>
+<div class="fi g rv" style="--d:.4s"><svg class="ic"><use href="#i-chart"/></svg><b>Assessoria contabilística</b><small>Orientação básica e acompanhamento documental no Gold.</small></div>
+<div class="fi g rv" style="--d:.5s"><svg class="ic"><use href="#i-mega"/></svg><b>Marketing digital</b><small>Estratégia da marca e conteúdo no pacote Silver.</small></div>
+</div></div></section>
+
+<section class="sec" id="ambientes"><div class="w">
+<span class="eb rv">Ambientes</span>
+<h2 class="rv" style="--d:.1s">Salas prontas para formar, reunir e <em>produzir</em></h2>
+<div class="ag">
+<figure class="ph pz rv"><img src="sbc-formacao.jpg" alt="Sala de formação da Smart Business Coworking com formanda e participantes" loading="lazy" width="714" height="792"><figcaption class="cp g"><b>Sala de Formação</b><span>Até 20 pessoas · climatizada · quadro e projector</span></figcaption></figure>
+<figure class="ph pz rv" style="--d:.15s"><img src="sbc-sala.jpg" alt="Sala equipada com cadeiras e quadro branco" loading="lazy" width="714" height="792"><figcaption class="cp g"><b>Salas equipadas</b><span>Quadro, projector e ambiente profissional</span></figcaption></figure>
+</div></div></section>
+
+<section class="sec sob" id="como"><div class="w">
+<span class="eb rv">Como funciona</span>
+<h2 class="rv" style="--d:.1s">Três passos para começar a <em>trabalhar</em></h2>
+<div class="sp">
+<div class="st2 g rv"><em>01</em><b>Escolha o espaço</b><p>Veja os pacotes e preços e escolha o que melhor serve o seu negócio.</p></div>
+<div class="st2 g rv" style="--d:.15s"><em>02</em><b>Fale connosco</b><p>Toque em Reservar e continue no WhatsApp com a mensagem já pronta.</p></div>
+<div class="st2 g rv" style="--d:.3s"><em>03</em><b>Comece a trabalhar</b><p>Assine o pacote e instale o seu negócio num espaço que o impulsiona.</p></div>
+</div></div></section>
+
+<section class="sec" id="faq"><div class="w">
+<span class="eb rv">Perguntas frequentes</span>
+<h2 class="rv" style="--d:.1s">Tudo o que precisa de <em>saber</em></h2>
+<div class="fq"><details class="g rv"><summary>Onde fica a Smart Business Coworking?<svg class="ic"><use href="#i-dn"/></svg></summary><p>Estamos na Centralidade do Kilamba, U38, Ap. 03, em Luanda, Angola.</p></details><details class="g rv"><summary>Quanto custa um espaço de coworking?<svg class="ic"><use href="#i-dn"/></svg></summary><p>As mesas individuais começam nos 55.000 Kz/mês (Ilha Mussulo) e nos 60.000 Kz/mês (Casulo). As salas privadas começam nos 140.000 Kz/mês. Todos os preços e o que está incluído estão na secção de espaços e preços.</p></details><details class="g rv"><summary>Posso alugar a sala de reunião só por algumas horas?<svg class="ic"><use href="#i-dn"/></svg></summary><p>Sim. O Pack 1 da Sala das Soluções custa 5.000 Kz por hora e o Pack 2 custa 43.900 Kz por mês, com até 10 horas mensais. A sala tem quadro, projector e 7 a 8 lugares.</p></details><details class="g rv"><summary>Têm sala para formações e workshops?<svg class="ic"><use href="#i-dn"/></svg></summary><p>Sim. O Training Center recebe até 20 pessoas, é climatizado e tem quadro e projector, por 9.700 Kz/hora em preço promocional.</p></details><details class="g rv"><summary>O que é o pacote virtual?<svg class="ic"><use href="#i-dn"/></svg></summary><p>É um endereço comercial Smart Business, sem escritório fixo. Inclui recepção de correspondência, notificação de documentos recebidos e atendimento compartilhado, desde 15.740 Kz/mês.</p></details><details class="g rv"><summary>Como assino um pacote?<svg class="ic"><use href="#i-dn"/></svg></summary><p>Escolha o pacote, toque em Reservar e continue no WhatsApp, com a mensagem já pronta. Também pode ligar para 926 311 149 ou 940 732 559.</p></details></div>
+</div></section>
+
+<section class="sec" id="contacto" style="padding-bottom:0"><div class="w">
+<span class="eb rv">Contacto</span>
+<h2 class="rv" style="--d:.1s">Venha conhecer o <em>espaço</em></h2>
+<div class="cg">
+<div class="ci g rv">
+<div class="cr"><svg class="ic"><use href="#i-pin"/></svg><div><small>Endereço</small><a href="https://www.google.com/maps/search/?api=1&query=X7X9%2B3HP%20Kilamba%20Angola" target="_blank" rel="noopener"><b>Centralidade do Kilamba, U38, Ap. 03</b></a><br><span style="color:var(--mut);font-size:13px">Luanda, Angola · abrir no Google Maps</span></div></div>
+<div class="cr"><svg class="ic"><use href="#i-tel"/></svg><div><small>Telefones</small><a href="tel:+244926311149"><b>926 311 149</b></a> <span style="color:var(--mut)">/</span> <a href="tel:+244940732559"><b>940 732 559</b></a></div></div>
+<div class="cr"><svg class="ic"><use href="#i-ig"/></svg><div><small>Instagram</small><a href="https://www.instagram.com/smartbusinesscoworking/" target="_blank" rel="noopener"><b>@smartbusinesscoworking</b></a></div></div>
+<div class="cr"><svg class="ic"><use href="#i-fb"/></svg><div><small>Facebook</small><a href="https://www.facebook.com/search/top?q=Smart%20Business%20Coworking" target="_blank" rel="noopener"><b>Smart Business Coworking</b></a></div></div>
+</div>
+<div class="cf g rv" style="--d:.15s"><form id="fm">
+<label>O seu nome<input id="fn" name="nome" autocomplete="name" placeholder="Nome" required></label>
+<label>Interesse<select id="fs" name="espaco"></select></label>
+<label>Mensagem<textarea id="ft" name="msg" placeholder="Conte-nos o que precisa (opcional)"></textarea></label>
+<button class="btn bp" type="submit"><svg class="ic"><use href="#i-wa"/></svg> Enviar pelo WhatsApp</button>
+</form></div>
+</div>
+<div class="cta rv"><h2>Pronto para trabalhar num espaço que impulsiona o seu <em>negócio</em>?</h2><a class="btn bp" href="#" data-wa="Olá! Quero reservar um espaço na Smart Business Coworking."><svg class="ic"><use href="#i-wa"/></svg> Reservar pelo WhatsApp</a></div>
+</div></section>
+</main>
+
+<footer><div class="w fw">
+<span>© 2026 Smart Business Coworking · Centralidade do Kilamba, U38, Ap. 03 · Luanda</span>
+<span>Proposta de site por <a href="https://wa.me/244929966303" rel="noopener"><b>Arão Lende</b> · 929 966 303</a></span>
+</div></footer>
+
+<a class="fab" href="#" data-wa="Olá! Gostaria de saber mais sobre a Smart Business Coworking." aria-label="Falar no WhatsApp"><svg class="ic"><use href="#i-wa"/></svg></a>
+
+<script>
+(function(){
+var $=function(s,c){return(c||document).querySelector(s)},$$=function(s,c){return[].slice.call((c||document).querySelectorAll(s))};
+var NUM='244926311149';
+function wa(m){return 'https://wa.me/'+NUM+'?text='+encodeURIComponent(m)}
+function fmt(n){return String(n).replace(/\B(?=(\d{3})+(?!\d))/g,'.')}
+$$('[data-wa]').forEach(function(a){a.href=wa(a.getAttribute('data-wa'));a.target='_blank';a.rel='noopener'});
+
+/* preloader */
+var pre=$('#pre'),pc=$('#pc'),t0=performance.now(),D=3000,done=0;
+function open(){if(done)return;done=1;pre.classList.add('out');document.body.classList.add('ok');setTimeout(function(){pre.style.display='none'},1500)}
+function tick(t){var p=Math.min(1,(t-t0)/D);pc.textContent=Math.round(100*(1-Math.pow(1-p,2.2)));if(p<1)requestAnimationFrame(tick);else setTimeout(open,400)}
+requestAnimationFrame(tick);setTimeout(open,5500);
+
+/* menu */
+var mb=$('#mb'),mp=$('#mp');
+function cm(){mp.classList.remove('o');mb.setAttribute('aria-expanded','false');mb.firstChild.firstChild.setAttribute('href','#i-menu')}
+mb.addEventListener('click',function(){var o=mp.classList.toggle('o');mb.setAttribute('aria-expanded',o);mb.firstChild.firstChild.setAttribute('href',o?'#i-x':'#i-menu')});
+$$('a',mp).forEach(function(a){a.addEventListener('click',cm)});
+
+/* dados */
+var B1=['Internet de alta velocidade','Recepção compartilhada','Copa','Acesso ao Éden'];
+var SV=['Inclui tudo do Bronze +','Assessoria personalizada em Marketing Digital'],SVx=['Orientação estratégica da marca','Sugestões de conteúdo','Apoio de posicionamento digital'];
+var GD=['Inclui tudo do Bronze +','Assessoria contabilística personalizada'],GDx=['Orientação contabilística básica','Acompanhamento documental','Orientação estratégica do negócio'];
+function T(base,p){return[{t:'Bronze',c:'br',p:p[0],f:base},{t:'Silver',c:'sv',p:p[1],f:SV,x:SVx},{t:'Gold',c:'gd',p:p[2],f:GD,x:GDx,hl:1,tag:'Mais completo'}]}
+function M(first,h,i,c){return[first].concat(B1,[h+'hrs de Sala das Soluções',i+' impressões/cópias mensais',c+' cafés mensais'])}
+var S=[
+{n:'Casulo',s:'Mesa individual reservada',ic:'desk',im:'sbc-casulo.jpg',k:T(M('Mesa individual',5,15,5),[60000,80000,110000])},
+{n:'Ilha Mussulo',s:'Mesa individual em ambiente colaborativo',ic:'users',im:'sbc-mussulo.jpg',k:T(M('Mesa individual',5,15,4),[55000,75000,105000])},
+{n:'Laboratório das Ideias',s:'Sala privada até 3 pessoas',ic:'bulb',im:'sbc-lab.jpg',k:T(M('Sala privada e equipada',6,15,4),[140000,165000,185000])},
+{n:'Cockpit',s:'Sala privada até 4 pessoas',ic:'rocket',im:'sbc-cockpit.jpg',k:T(M('Sala privada e equipada',8,20,6),[190000,210000,235000])},
+{n:'Sala das Soluções',s:'Sala de reunião profissional',ic:'meet',im:'sbc-sol.jpg',k:[
+ {t:'Pack 1',c:'ot',p:5000,per:'hora',f:['Sala equipada','Internet de alta velocidade','Recepção compartilhada','Quadro e projector','7/8 lugares']},
+ {t:'Pack 2',c:'ot',p:43900,per:'mês',f:['Até 10 horas/mês','Internet de alta velocidade','Apoio de recepção','Quadro e projector','7/8 lugares'],hl:1,tag:'Melhor para equipas'}]},
+{n:'Sala de Formação',s:'Training Center · preço promocional',ic:'school',im:'sbc-formacao.jpg',k:[
+ {t:'Training Center',c:'ot',p:9700,per:'hora',f:['Capacidade até 20 pessoas','Sala climatizada','Quadro','Projector'],hl:1,tag:'Preço promocional'}]},
+{n:'Pacotes Virtuais',s:'Endereço comercial Smart Business',ic:'globe',im:'sbc-sala.jpg',k:[
+ {t:'Virtual SMART',c:'ot',p:15740,per:'mês',f:['Endereço comercial Smart Business','Recepção de correspondência','Notificação de documentos recebidos','Atendimento compartilhado']},
+ {t:'Virtual +',c:'ot',p:25230,per:'mês',f:['Inclui tudo do Virtual Smart +','Stock de entregas','Sala das Soluções (reunião) até 5 horas por mês'],hl:1,tag:'Mais completo'}]}
+];
+var tabs=$('#tabs'),panel=$('#panel'),cur=0;
+function ico(n){return '<svg class="ic"><use href="#i-'+n+'"/></svg>'}
+tabs.innerHTML=S.map(function(s,i){var m=Math.min.apply(null,s.k.map(function(k){return k.p}));return '<button class="tab g" role="tab" aria-selected="'+(i==0)+'" data-i="'+i+'">'+ico(s.ic)+'<b>'+s.n+'</b><small>desde '+fmt(m)+' Kz</small></button>'}).join('');
+function show(i){
+ cur=i;var s=S[i];
+ $$('.tab',tabs).forEach(function(b,j){b.setAttribute('aria-selected',j==i)});
+ var h='<div class="bn"><img src="'+s.im+'" alt="" width="400" height="300"><div class="bt"><h3>'+s.n+'</h3><p>'+s.s+'</p></div></div><div class="pk">';
+ s.k.forEach(function(k,j){
+  var msg='Olá! Tenho interesse no pacote '+k.t+' ('+s.n+') por '+fmt(k.p)+' Kz/'+(k.per||'mês')+'. Pode dar-me mais informações?';
+  h+='<article class="pcd g '+k.c+(k.hl?' hl':'')+'" style="--i:'+j+'">'+(k.tag?'<span class="bd">'+k.tag+'</span>':'')+'<div class="tg"><i></i>'+k.t+'</div><div class="pp">'+fmt(k.p)+' <small>Kz/'+(k.per||'mês')+'</small></div><ul>'+k.f.map(function(f){return '<li>'+ico('ok')+'<span>'+f+'</span></li>'}).join('')+'</ul>'+(k.x?'<ul class="sx">'+k.x.map(function(f){return '<li>'+f+'</li>'}).join('')+'</ul>':'')+'<a class="btn '+(k.hl?'bp':'bg')+'" target="_blank" rel="noopener" href="'+wa(msg)+'">Reservar no WhatsApp '+ico('up')+'</a></article>'});
+ h+='</div><p class="nt">Preços em kwanzas (Kz). Para outras necessidades, fale connosco.</p>';
+ panel.innerHTML=h;
+}
+tabs.addEventListener('click',function(e){var b=e.target.closest('.tab');if(!b)return;var i=+b.dataset.i;if(i!==cur)show(i)});
+show(0);
+
+/* formulário */
+var fs=$('#fs');fs.innerHTML=S.map(function(s){return '<option>'+s.n+'</option>'}).join('')+'<option>Outro / não sei ainda</option>';
+$('#fm').addEventListener('submit',function(e){e.preventDefault();var n=$('#fn').value.trim(),t=$('#ft').value.trim();
+ var m='Olá! O meu nome é '+n+'. Tenho interesse em: '+fs.value+'.'+(t?' '+t:'');window.open(wa(m),'_blank')});
+
+/* observers */
+if('IntersectionObserver' in window){
+ var io=new IntersectionObserver(function(es){es.forEach(function(e){if(e.isIntersecting){e.target.classList.add('in');io.unobserve(e.target)}})},{threshold:.12,rootMargin:'0px 0px -6% 0px'});
+ $$('.rv').forEach(function(el){io.observe(el)});
+ var po=new IntersectionObserver(function(es){es.forEach(function(e){e.target.classList.toggle('on',e.isIntersecting)})},{rootMargin:'80px'});
+ $$('.pz').forEach(function(el){po.observe(el)});
+}else{$$('.rv').forEach(function(el){el.classList.add('in')});$$('.pz').forEach(function(el){el.classList.add('on')})}
+})();
+</script>
+</body>
+</html>
